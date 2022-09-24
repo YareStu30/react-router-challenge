@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-export default function () {
+const Navbar = () => {
   return (
     <>
       <h1 classname="Nav"> Happy Cake</h1>
@@ -12,4 +12,5 @@ export default function () {
       />
     </>
   );
-}
+};
+export default Navbar;
