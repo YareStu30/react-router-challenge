@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-router-challenge/static/css/main.c0dca414.css",
+    "main.js": "/react-router-challenge/static/js/main.bf5c58c2.js",
+    "index.html": "/react-router-challenge/index.html",
+    "main.c0dca414.css.map": "/react-router-challenge/static/css/main.c0dca414.css.map",
+    "main.bf5c58c2.js.map": "/react-router-challenge/static/js/main.bf5c58c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0dca414.css",
+    "static/js/main.bf5c58c2.js"
+  ]
+}
